@@ -6,7 +6,7 @@ An interactive frontend chatbot that delivers **unique daily affirmations** base
 Includes sparkles, confetti, and a theme toggle for a fun and uplifting experience! 💖
 
 ## Features
-- Asks for your name and greets you personally  
+- Greets the user by name  
 - Responds to your mood with **unique affirmations**  
 - Dark/Light theme toggle (dark mode: purple aesthetic)  
 - Confetti and sparkling animations for a joyful feel  
@@ -18,8 +18,8 @@ Includes sparkles, confetti, and a theme toggle for a fun and uplifting experien
 
 ## How to Use
 1. Open `index.html` in your browser  
-2. Type your name when prompted  
-3. Enter your mood or a short sentence  
+2. Enter your name when prompted  
+3. Type your mood or a short sentence  
 4. Receive a personalized affirmation ✨  
 
 ## Demo
