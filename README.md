@@ -1,6 +1,6 @@
 # Affirmation Bot 🌸✨
 
-![Affirmation Bot Demo](assets/affirmation-bot-demo.gif)
+![Affirmation Bot Demo](assets/affirmation_bot_demo.gif)
 
 An interactive frontend chatbot that delivers **unique daily affirmations** based on your mood.  
 Includes sparkles, confetti, and a theme toggle for a fun and uplifting experience! 💖
